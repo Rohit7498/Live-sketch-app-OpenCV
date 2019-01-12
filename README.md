@@ -2,8 +2,6 @@
 
 It is a simple openCv project which uses your webcam to give back live sketch of the the image the webcam records.
 
-The code is highly commented to get the understanding of each functions used.
-
 <h1>Requirements</h1>
 
 <ul>
@@ -11,6 +9,9 @@ The code is highly commented to get the understanding of each functions used.
   <li>Python 3.x</li>
   <li>OpenCv 2.x</li>
 </ul>
+
+<h3>***The code is highly commented to get the understanding of each functions used.***<h3>
+  <br>
 
 ![Imgur](https://i.imgur.com/amHZMeK.png)
 
