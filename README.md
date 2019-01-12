@@ -9,10 +9,10 @@ The code is highly commented to get the understanding of each functions used.
 <ul>
   <li>Jupyter Notebook</li>
   <li>Python 3.x</li>
-  <li>OpenCv 2.x<li>
+  <li>OpenCv 2.x</li>
 </ul>
 
-
+![Imgur](https://i.imgur.com/amHZMeK.png)
 
 <h1>Getting Started</h1>
 <ul>
@@ -20,4 +20,4 @@ The code is highly commented to get the understanding of each functions used.
   <li>Clone the repository and paste it inside your jupyter notebook to run the app.</li>
 </ul>
 
-![Imgur](https://i.imgur.com/amHZMeK.png)
+
